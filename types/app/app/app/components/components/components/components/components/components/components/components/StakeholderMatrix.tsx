@@ -1,4 +1,4 @@
- 'use client'
+import { User, Info, ZoomIn, ZoomOut, BarChart3, X } from 'lucide-react'
 
   import { useState } from 'react'
   import { User, Info, ZoomIn, ZoomOut } from 'lucide-react'
